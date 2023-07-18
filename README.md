@@ -1,7 +1,8 @@
 # Voice_Cloning_Project
 https://github.com/Sameer103/Voice_Cloning_Project.git
 
-[![Alt text](https://img.youtube.com/vi/lnkd.in/d-b2jnk7/0.jpg)](https://www.youtube.com/watch?v=76HaHmmD9kY)
+[![Alt text](https://img.youtube.com/vi/76HaHmmD9kY/0.jpg)](https://www.youtube.com/watch?v=76HaHmmD9kY)
+
 
 
 
