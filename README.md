@@ -1,6 +1,9 @@
 # Voice_Cloning_Project
 https://github.com/Sameer103/Voice_Cloning_Project.git
-# Voice Cloning Project
+
+[![Alt text](https://img.youtube.com/vi/lnkd.in/d-b2jnk7/0.jpg)](https://www.youtube.com/watch?v=76HaHmmD9kY)
+
+
 
 This project is aimed at creating a voice cloning model using deep learning techniques. The model can be used to generate speech that sounds like a specific person's voice. The project is hosted on Github and is open-source, meaning anyone can contribute to the development of the model.
 
