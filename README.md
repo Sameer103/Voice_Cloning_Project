@@ -72,7 +72,3 @@ If you want to contribute to the development of this project, you can fork the r
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
-
-## Acknowledgments
-
-This project was inspired by the work of Corentin Jemine on his [Deep Voice 3](https://github.com/r9y9/deepvoice3_pytorch) project. Special thanks to him and all the contributors who have helped make this project possible.
